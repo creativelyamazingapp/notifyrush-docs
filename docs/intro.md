@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Welcome to Notify Rush
 
-Effortless customer communication for Shopify merchants.
+Effortless customer communication. Notify Rush helps merchants efficiently keep customers informed about order updates, backordered products, and more. With bulk messaging, merchants can quickly reach customers, saving time and ensuring transparency. The app enhances customer service by allowing merchants to search products, filter by fulfillment status, and send customizable bulk emails—all from one place. Notify Rush streamlines communication, ensuring customers stay informed and satisfied.
+
+
 
 [Shopify App Store](https://apps.shopify.com/notify-rush) | [Website](https://www.notifyrush.com/)
 
